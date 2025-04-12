@@ -1,2 +1,2 @@
-portfolio-mohammedrumaanshaikh.netlify.app
+https://portfolio-mohammedrumaanshaikh.netlify.app
 
