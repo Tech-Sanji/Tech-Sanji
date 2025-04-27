@@ -1,7 +1,5 @@
 https://portfolio-mohammedrumaanshaikh.netlify.app
 
-Here’s a fun and engaging README for your GitHub profile:
-
 ---
 
 # Hi there, I'm Tech-Sanji! 👨‍💻🚀
